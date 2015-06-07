@@ -1,0 +1,49 @@
+#tabela_criptare{
+	margin-top: 10%;
+	margin-left: 10%;
+	opacity: 0.9;
+	border: 1 solid black;
+	background-color: #FFFFFF;
+	text-align: center;
+}
+
+#body_afisare
+{
+	background-image: url('/test/img/img5.png');
+	background-size: 100%;
+}
+#body1
+{
+	background-image: url('/test/img/img2.jpg');
+	background-size: 100%;
+}
+#inapoi{
+	color: #FFFFFF;
+	margin-top: 100px; 
+	margin-left: 150px;
+}
+#content
+{
+	display:block;
+	border-radius: 5px;
+	background-color: #C1C1C1;
+	width: 60%;
+	height: 40%;
+	margin:0 auto;
+	margin-top: 50px;
+	opacity: 0.95;
+}
+
+form{
+	
+	PADDING-TOP:30PX;
+}
+.title
+{
+	color: #FFFFFF;
+	margin-top: 18px;
+	margin-left:50px;
+	width: 200px;
+	opacity: 1.0;
+	background-color: #2E2E2E;
+}
